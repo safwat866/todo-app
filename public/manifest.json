@@ -1,0 +1,20 @@
+{
+  "name": "Oba Tito Mambo",
+  "short_name": "Todoweee",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009688",
+  "icons": [
+    {
+      "src": "./web-app-manifest-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./web-app-manifest-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
