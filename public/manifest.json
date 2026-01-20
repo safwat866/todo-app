@@ -1,5 +1,5 @@
 {
-  "name": "Oba Tito Mambo",
+  "name": "Todo App",
   "short_name": "Todoweee",
   "start_url": "../index.html",
   "display": "standalone",
@@ -7,12 +7,12 @@
   "theme_color": "#009688",
   "icons": [
     {
-      "src": "./web-app-manifest-192x192.png",
+      "src": "./192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./web-app-manifest-512x512.png",
+      "src": "./512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
