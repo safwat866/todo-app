@@ -99,6 +99,6 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     // display user name
-    const userName = "Jana Belal";
+    const userName = "User";
     document.querySelector(".welcome").textContent += ` ${userName}🥳🤩!`;
 })
