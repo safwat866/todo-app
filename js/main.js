@@ -100,5 +100,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // display user name
     const userName = "User";
-    document.querySelector(".welcome").textContent += ` ${userName}🥳🤩!`;
+    document.querySelector(".welcome").textContent += ` ${userName}!`;
 })
